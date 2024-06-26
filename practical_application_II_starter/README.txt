@@ -15,6 +15,7 @@ Next Steps :
 5. I know i did approach by deleteing the data with giving a threshold , however that can be eliminated with other cleaning approaches.
 6. I also learned that handlingly categorical features with one hot encoding can give better results when compared to ordinal encoder.
 
+n the .py file i attempted to create a table of the interesting findings , however in the Github is all combined and not in a readable format.
 
 Recommendations : 
 From the prediction analysis , we can recommend  the customer that the car that has good fueling mechanism , which a better transmission and latest year can cost higher when 
